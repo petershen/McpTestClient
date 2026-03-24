@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "McpTestClient": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\wpete\\source\\repos\\weather",
+      "workingDirectory": "C:\\Users\\wpete\\source\\repos\\McpTestClient"
+    }
+  }
+}
